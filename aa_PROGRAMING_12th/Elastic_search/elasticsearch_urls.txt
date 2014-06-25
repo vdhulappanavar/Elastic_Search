@@ -1,0 +1,9 @@
+the url where the elastic search runs ::  localhost:9200
+
+
+thi is the url which will take me to the page where i can use the commands get put post etc  :: http://elastichammer.exploringelasticsearch.com/
+
+this is the url which will show me my data bases :: http://localhost:9200/_plugin/head/
+
+
+this url will take me to the book on elastic search :: http://exploringelasticsearch.com/modeling_data.html#sec-modeling-basic-crud
